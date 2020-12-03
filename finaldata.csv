@@ -1,4 +1,4 @@
-﻿Country,Continent,region,ladder,ladder1,ladder2,ladder3,matters1,matters2,matters3,gdp,support,hle,freedom,generosity,corruption
+﻿Country,Continent,region,ladder,ladder1,ranking_2,ranking,matters1,matters2,matters3,gdp,support,hle,freedom,generosity,corruption
 Finland,europe,Western Europe,7.808700085,7.5,higher,high,health,education,environment,10.63926697,0.954329729,71.9008255,0.949172199,-0.059482019,0.195444584
 Denmark,europe,Western Europe,7.645599842,7.5,higher,high,education,health,work-life balance,10.77400112,0.955990791,72.40250397,0.951444268,0.066201776,0.168489456
 Switzerland,europe,Western Europe,7.559899807,7.5,higher,high,health,education,safety,10.97993279,0.942846596,74.10244751,0.921336651,0.105911039,0.303728431
